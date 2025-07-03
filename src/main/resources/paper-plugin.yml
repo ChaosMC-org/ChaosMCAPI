@@ -1,0 +1,4 @@
+name: ChaosMCAPI
+version: '${version}'
+main: xyz.lncvrt.chaosmcapi.ChaosMCAPI
+api-version: '1.20'
